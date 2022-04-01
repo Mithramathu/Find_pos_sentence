@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_pos_sentence", "Find_pos_sentence\Find_pos_sentence.csproj", "{2B941468-6EC7-46EB-8619-DFAD249A4FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B941468-6EC7-46EB-8619-DFAD249A4FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B941468-6EC7-46EB-8619-DFAD249A4FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B941468-6EC7-46EB-8619-DFAD249A4FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B941468-6EC7-46EB-8619-DFAD249A4FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D63D9C2-9537-43C6-8534-C3E2986B41E6}
+	EndGlobalSection
+EndGlobal
